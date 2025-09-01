@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m @Micjeal<br><br>- 👀 I’m interested in technology, AI advancements.<br>- 🌱 I’m currently learning UWP development, time management strategies, and AI trends.<br>- 💞️ I’m looking to collaborate on innovative projects in AI, C# applications, and machine learning.<br>- 📫 How to reach me: [+256-768432509].<br>- 😄 Pronouns:Him.<br>- ⚡ Fun fact: I love designing modern UIs and exploring new programming languages like React, SQL, and C++.<br><br><!---<br>Micjeal/Micjeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+# 👋 Hi, I’m @Mugisha Micheal<br><br>- 👀 I’m interested in technology, AI advancements.<br>- 🌱 I’m currently learning UWP development, time management strategies, and AI trends.<br>- 💞️ I’m looking to collaborate on innovative projects in AI, C# applications, and machine learning.<br>- 📫 How to reach me: [+256-768432509].<br>- 😄 Pronouns:Him.<br>- ⚡ Fun fact: I love designing modern UIs and exploring new programming languages like React, SQL, and C++.<br><br><!---<br>Micjeal/Micjeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
 
 
 ## 🌐 Socials:
