@@ -1,5 +1,53 @@
 # 💫 About Me:
-# 💫 About Me:<br># 👋 Hi, I’m @Mugisha Micheal<br><br>- 👀 I’m interested in technology, AI advancements.<br>- 🌱 I’m currently learning UWP development, time management strategies, and AI trends.<br>- 💞️ I’m looking to collaborate on innovative projects in AI, C# applications, and machine learning.<br>- 📫 How to reach me: [+256-768432509].<br>- 😄 Pronouns:Him.<br>- ⚡ Fun fact: I love designing modern UIs and exploring new programming languages like React, SQL, and C++.
+
+## 👋 Hi, I’m @Mugisha Micheal
+
+- 👀 I’m interested in building scalable systems, IT infrastructure, and AI-driven solutions.
+- 🌱 Currently advancing in full-stack development, backend architecture (Node.js), and IT support systems.
+- 💞️ Open to collaborating on innovative projects in web development, AI, system automation, and real-world problem-solving solutions.
+- 📫 Reach me at: +256 768 432509  
+- ⚡ Fun fact: I enjoy designing modern, efficient UIs and optimizing system performance.
+
+---
+
+## 🧠 Technical Stack
+
+### 💻 Programming & Development
+- JavaScript (ES6+), Node.js, PHP, C#, C, C++
+- HTML5, CSS3, Bootstrap, React (Vite)
+
+### 🗄️ Databases
+- MySQL, SQL Server, LocalStorage
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- XAMPP, PhpMyAdmin
+- Visual Studio / VS Code
+- Figma
+
+### 🛠️ IT Support & Systems
+- System Troubleshooting & Maintenance
+- Hardware & Software Installation
+- Networking Fundamentals (TCP/IP, DNS, DHCP)
+- Windows OS & Basic Linux Administration
+- System Security (Antivirus, Backups, Access Control)
+
+---
+
+## 🚀 Current Focus
+- Building real-world systems (POS, Banking, Hospital Management Systems)
+- Strengthening backend architecture and APIs
+- Expanding into IT Support and Infrastructure Management
+- Exploring AI-powered applications
+
+---
+
+## 🤝 Collaboration Interests
+- Full-stack web applications
+- AI & automation tools
+- System optimization & performance projects
+- Open-source contributions
+
 
 
 ## 🌐 Socials:
