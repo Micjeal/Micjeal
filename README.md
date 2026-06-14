@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-*   **Overview:** Forward-thinking Software Engineer with a passion for building intelligent, scalable, and efficient systems.[cite: 1] I specialize in backend development, AI-enhanced applications, and secure full-stack solutions utilizing C#, ASP.NET, JavaScript, Node.js, SQL Server, and React.[cite: 1] 
+*   **Overview:** Forward-thinking Software Engineer with a passion for building intelligent, scalable, and efficient systems.[cite: 1] I specialize in backend development and secure full-stack solutions utilizing C#, ASP.NET, JavaScript, Node.js, SQL Server, and React.[cite: 1] 
 *   **Education:** 
     *   Bachelor of Science in Computer Science (BSc CS) - Ongoing.[cite: 1]
     *   Diploma in Software Engineering (DSE) - ISBAT University, City Campus (2025).[cite: 2]
