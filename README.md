@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://michealdev-rho.vercel.app/assets/images/profile.jpg" width="160" height="160" alt="Portrait of Mugisha Micheal" style="border-radius: 50%; object-fit: cover;" />
   <h1>Hi, I'm Mugisha Micheal</h1>
   <h3>Software Engineer | Backend Developer | ICT Support</h3>
 
